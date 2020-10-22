@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Toegankelijkheid",
+    "options": [
+      "Gelijkvloers",
+      "Rollator",
+      "Rolstoel"
+    ],
+    "field": "toegankelijkheid",
+    "value": "",
+    "filterType": "checkbox"
+  },
+  {
+    "name": "Hoeveel personen",
+    "options": [
+      "Geen voorkeur",
+      "1",
+      "2",
+      "3 of meer"
+    ],
+    "field": "hoeveel_personen",
+    "value": "",
+    "filterType": "radio"
+  },
+  {
+    "name": "Zorgbehoevende personen",
+    "options": [
+      "Geen voorkeur",
+      "1",
+      "2",
+      "3 of meer"
+    ],
+    "field": "hoeveel_personen",
+    "value": "",
+    "filterType": "radio"
+  },
+  {
+    "name": "Type Woning",
+    "options": [
+      "55+ Woning",
+      "Aanleunwoning",
+      "Seniorenappartement",
+      "Seniorenwoning",
+      "Serviceappartement",
+      "Verpleeghuiskamer",
+      "Zorgappartement",
+      "Zorgwoning"
+    ],
+    "field": "type_woning",
+    "value": "",
+    "filterType": "checkbox"
+  },
+  {
+    "name": "Type Locatie",
+    "options": [
+      "Seniorenappartement complex",
+      "Kleinschalige woonlocatie",
+      "Particulier verpleeghuis",
+      "Senioren residentie",
+      "Serviceflat",
+      "Verpleeghuis",
+      "Verzorgingshuis",
+      "Zorgvilla",
+      "Woongroep",
+      "Woonzorgcentrum"
+    ],
+    "field": "type_locatie",
+    "value": "",
+    "filterType": "checkbox"
+  },
+  {
+    "name": "Parkeren",
+    "options": [
+      "Eigen parkeergelegenheid"
+    ],
+    "field": "parkeren",
+    "value": "",
+    "filterType": "checkbox"
+  },
+  {
+    "name": "Ligging",
+    "options": [
+      "Bij openbaar vervoer",
+      "Winkels op loopafstand",
+      "In centrum",
+      "Aan rustige weg",
+      "Bosrijke omgeving",
+      "Vrij uitzicht",
+      "In woonwijk",
+      "Aan de rand van woonwijk"
+    ],
+    "field": "ligging",
+    "value": "",
+    "filterType": "checkbox"
+  },
+  {
+    "name": "Bouwperiode",
+    "options": [
+      "1900 - 1950",
+      "1950 - 2000",
+      "2000 - heden"
+    ],
+    "field": "bouwperiode",
+    "value": "",
+    "filterType": "radio"
+  },
+  {
+    "name": "Eetgelegenheden",
+    "options": [
+      "Geen voorkeur",
+      "Restaurant",
+      "Restaurant ook voor bezoekers",
+      "Dieetmaaltijden",
+      "Eten waar je wilt"
+    ],
+    "field": "eten",
+    "value": "",
+    "filterType": "radio"
+  },
+  {
+    "name": "Georganiseerde activiteiten",
+    "options": [
+      "Concerten",
+      "Tekenen/schilderen",
+      "Filosofie/lezen",
+      "Uitstapjes",
+      "Sport en spel"
+    ],
+    "field": "activiteiten",
+    "value": "",
+    "filterType": "checkbox"
+  },
+  {
+    "name": "Zorg",
+    "options": [
+      "Nabijheid van zorg",
+      {
+        "name": "Zorg Indicatie",
+        "options": [
+          "(Nog) geen indicatie",
+          "ZZP 4",
+          "ZZP 5",
+          "ZZP 6",
+          "ZZP 7",
+          "ZZP 8",
+          "ZZP 9"
+        ],
+        "field": "z_indicatie",
+        "value": "",
+        "filterType": "checkbox"
+      },
+      {
+        "name": "Specialistische zorg",
+        "options": [
+          "Dementie",
+          "Alzheimer"
+        ],
+        "field": "spec_zorg",
+        "value": "",
+        "filterType": "checkbox"
+      }
+    ],
+    "field": "zorg",
+    "value": "",
+    "filterType": "checkbox"
+  }
+]
