@@ -1,18 +1,16 @@
 <template>
     <div class="page">
-        <div class="container">
-            <filter-bar-component></filter-bar-component>
-            <list-view-component/>
-        </div>
+        <header-component/>
+        <router-view/>
     </div>
 </template>
 
 <script>
-    import FilterBarComponent from "@/components/FilterBarComponent";
-    import ListViewComponent from "@/components/ListViewComponent";
+    import HeaderComponent from "@/components/HeaderComponent";
+
     export default {
         name: "BodyComponent",
-        components: {ListViewComponent, FilterBarComponent}
+        components: {HeaderComponent}
     }
 </script>
 
@@ -21,7 +19,6 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        margin-top: 100px;
     }
 
     .container{
