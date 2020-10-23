@@ -1,0 +1,42 @@
+[
+  {
+    "naam": "Frankelandgroep, Thuiszorg Ouderen",
+    "beschrijving": "Leven volgens uw eigen leefstijl in een veilige en vertrouwde omgeving. Dat is waar we bij de Frankelandgroep dagelijks naar streven. Of u nu zelfstandig, in één van onze wooncomplexen of binnen onze locaties woont, we staan 24 uur per dag en 7 dagen per week voor u klaar.",
+    "straat": "Sint Liduinastraat 10",
+    "postcode": "3117 CS",
+    "stad": "Schiedam",
+    "img": "preview.jpg"
+  },
+  {
+    "naam": "BCM Ouderenzorg, Woon- en Zorgcentrum Maarsheerd",
+    "beschrijving": "Ouderen die langdurige en/of intensieve zorg nodig hebben, verdienen een fijne en veilige woonomgeving. Een omgeving waar zij zich thuis voelen en zoveel mogelijk het leven kunnen leiden waar zij zich prettig bij voelen. Dát bieden wij ze bij BCM op onze locaties Maarsheerd in Stadskanaal en Beukenhof in Musselkanaal.",
+    "straat": "Maarsdreef 1",
+    "postcode": "9501 AM",
+    "stad": "Stadskanaal",
+    "img": "preview2.jpg"
+  },
+  {
+    "naam": "Carintreggeland",
+    "beschrijving": "Ieder mens is uniek en waardevol. Vanuit die overtuiging bieden wij (gezondheids)zorg, wonen en welzijn op maat. Met oprechte aandacht en oog voor wie u bent. Het is ons doel dat u zoveel mogelijk kunt leven zoals u gewend bent, en de dingen kunt doen die belangrijk voor u zijn. Dat bereiken we door goed te luisteren naar uw verhaal. Wat kunt u zelf? En waar maakt onze hulp het verschil? Mantelzorgers en vrijwilligers zijn daarbij onmisbaar en onze partners in de zorg.",
+    "straat": "Boortorenweg 20",
+    "postcode": "7554 RS",
+    "stad": "Hengelo",
+    "img": "preview3.jpg"
+  },
+  {
+    "naam": "Carintreggeland",
+    "beschrijving": "Ieder mens is uniek en waardevol. Vanuit die overtuiging bieden wij (gezondheids)zorg, wonen en welzijn op maat. Met oprechte aandacht en oog voor wie u bent. Het is ons doel dat u zoveel mogelijk kunt leven zoals u gewend bent, en de dingen kunt doen die belangrijk voor u zijn. Dat bereiken we door goed te luisteren naar uw verhaal. Wat kunt u zelf? En waar maakt onze hulp het verschil? Mantelzorgers en vrijwilligers zijn daarbij onmisbaar en onze partners in de zorg.",
+    "straat": "Boortorenweg 20",
+    "postcode": "7554 RS",
+    "stad": "Hengelo",
+    "img": "preview3.jpg"
+  },
+  {
+    "naam": "Carintreggeland",
+    "beschrijving": "Ieder mens is uniek en waardevol. Vanuit die overtuiging bieden wij (gezondheids)zorg, wonen en welzijn op maat. Met oprechte aandacht en oog voor wie u bent. Het is ons doel dat u zoveel mogelijk kunt leven zoals u gewend bent, en de dingen kunt doen die belangrijk voor u zijn. Dat bereiken we door goed te luisteren naar uw verhaal. Wat kunt u zelf? En waar maakt onze hulp het verschil? Mantelzorgers en vrijwilligers zijn daarbij onmisbaar en onze partners in de zorg.",
+    "straat": "Boortorenweg 20",
+    "postcode": "7554 RS",
+    "stad": "Hengelo",
+    "img": "preview3.jpg"
+  }
+]

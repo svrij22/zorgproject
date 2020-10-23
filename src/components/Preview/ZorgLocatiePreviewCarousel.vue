@@ -90,19 +90,19 @@
             background-position: center;
 
             &.slide-1 {
-                background-image:url('../assets/preview.jpg');
+                background-image:url('../../assets/preview.jpg');
             }
             &.slide-2 {
-                background-image:url('../assets/preview2.jpg');
+                background-image:url('../../assets/preview2.jpg');
             }
             &.slide-3 {
-                background-image:url('../assets/preview3.jpg');
+                background-image:url('../../assets/preview3.jpg');
             }
             &.slide-4 {
-                background-image:url('../assets/preview.jpg');
+                background-image:url('../../assets/preview.jpg');
             }
             &.slide-5 {
-                background-image:url('../assets/preview.jpg');
+                background-image:url('../../assets/preview.jpg');
             }
         }
 

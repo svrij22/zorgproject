@@ -15,7 +15,7 @@
     .topfilter{
         display: flex;
         flex-direction: column;
-        align-items: start;
+        align-items: flex-start;
         margin: 10px 0;
     }
 </style>

@@ -262,7 +262,7 @@
     .left {
         width: 220px;
         height: auto;
-        background-image: url("../assets/heart.png");
+        background-image: url("../../assets/heart.png");
         background-position: center;
         background-size: cover;
         border-top-left-radius: 4px;

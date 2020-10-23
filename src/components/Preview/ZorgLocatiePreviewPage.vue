@@ -20,8 +20,8 @@
 </template>
 
 <script>
-    import ZorgLocatiePreviewCarousel from "@/components/ZorgLocatiePreviewCarousel";
-    import testdata from './test_data.json';
+    import ZorgLocatiePreviewCarousel from "@/components/Preview/ZorgLocatiePreviewCarousel";
+    import testdata from '../test_data.json';
 
     export default {
         name: "ZorgLocatiePreviewPage",
