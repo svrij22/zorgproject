@@ -1,7 +1,10 @@
 <template>
     <div>
         <div class="centerbox">
-            <zorg-locatie-preview-carousel/>
+            <div class="image-box">
+                <img src="../../assets/preview.jpg"/>
+            </div>
+            <zorg-locatie-preview-carousel v-show="false"/>
         </div>
         <div class="main-info">
             <div class="divider"></div>
@@ -36,13 +39,34 @@
 
 <style lang="scss" scoped>
     .centerbox{
-        display: flex;
+        /*display: flex;*/
         flex-direction: row;
         justify-content: center;
         width: 100%;
         background-color: #ffe9ea;
-        padding-top: 20px;
+        padding: 20px ;
     }
+
+    .image-box{
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        & img{
+            width: 100%;
+            max-width: 1300px;
+        }
+
+        @media only screen and (min-width: 800px) {
+            & img{
+                min-width: calc(600px + 30vw);
+                height: 580px;
+                object-fit: cover;
+            }
+        }
+    }
+
     .main-info{
         display: flex;
         flex-direction: column;
@@ -50,7 +74,7 @@
     }
 
     .divider{
-        height: 3px;
+        height: 2px;
         background-color: #ac3844;
         margin: 20px;
         max-width: 1200px;
